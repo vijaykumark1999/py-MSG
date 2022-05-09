@@ -1,4 +1,4 @@
-mport pyautogui as pt
+import pyautogui as pt
 import time
 
 limit = input("enter limit:")
